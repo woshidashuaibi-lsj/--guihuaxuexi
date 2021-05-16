@@ -1,0 +1,5 @@
+const teacher = "lsj";
+console.log(teacher);
+$(function () {
+  alert(123);
+});

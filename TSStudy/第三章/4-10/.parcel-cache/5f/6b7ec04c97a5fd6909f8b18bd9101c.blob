@@ -1,0 +1,3 @@
+const teacher = 'lsj';
+console.log(teacher);
+$();

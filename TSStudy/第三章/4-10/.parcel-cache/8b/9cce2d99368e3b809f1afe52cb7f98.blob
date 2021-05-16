@@ -1,0 +1,6 @@
+const teacher = "lsj";
+console.log(teacher);
+$(function () {
+  $("body").html("<div>123</div>");
+  new $();
+});
